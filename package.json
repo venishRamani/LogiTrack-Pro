@@ -1,0 +1,13 @@
+{
+  "name": "logitrack-pro",
+  "version": "1.0.0",
+  "description": "Real-time logistics and fleet telemetry engine with WebSocket streaming and queue batching",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
